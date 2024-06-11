@@ -12,6 +12,7 @@ Here are some of the technologies and tools I work with:
 - **Version Control:** GitHub, Azure DevOps
 - **Visualisation:** Power BI
 - **Containers:** Docker
+- **Infrastructure as Code:** Terraform
 
 
 <!--
